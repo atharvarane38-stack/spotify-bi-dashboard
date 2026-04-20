@@ -2,7 +2,7 @@
 # 🎵 Spotify Music Intelligence Dashboard
 > A BI analytics tool that thinks like a music label — not just charts, but decisions.
 
-[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](YOUR-STREAMLIT-URL)
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)]([YOUR-STREAMLIT-URL](https://spotify-bi-dashboard.streamlit.app))
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=for-the-badge&logo=sqlite)](https://sqlite.org)
 

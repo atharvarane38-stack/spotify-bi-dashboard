@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Live Demo
-👉 [Launch Dashboard](YOUR-STREAMLIT-URL)
+👉 [Launch Dashboard]([YOUR-STREAMLIT-URL](https://spotify-bi-dashboard.streamlit.app))
 
 ---
 
